@@ -1,19 +1,19 @@
 # CLAUDE.md
 
-This file provides guidance to Claude Code (claude.ai/code) when working with code in this repository.
+此檔案為 Claude Code (claude.ai/code) 在此儲存庫中工作時提供指引。
 
-## Repository Overview
+## 儲存庫概述
 
-This is a simple test repository containing basic HTML pages and test scripts.
+這是一個簡單的測試儲存庫,包含基本的 HTML 頁面和測試腳本。
 
-## Repository Structure
+## 儲存庫結構
 
-- `index.html` - Main HTML page with Lorem ipsum content
-- `about.html` - About page with Lorem ipsum content
-- `test.js` - JavaScript test script
-- `test.py` - Python test script
+- `index.html` - 主要 HTML 頁面,包含 Lorem ipsum 內容
+- `about.html` - 關於頁面,包含 Lorem ipsum 內容
+- `test.js` - JavaScript 測試腳本
+- `test.py` - Python 測試腳本
 
-## Running Code
+## 執行程式碼
 
 **JavaScript:**
 ```bash
@@ -26,4 +26,4 @@ python test.py
 ```
 
 **HTML:**
-Open `index.html` or `about.html` directly in a web browser.
+直接在網頁瀏覽器中開啟 `index.html` 或 `about.html`。
